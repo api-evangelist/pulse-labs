@@ -1,0 +1,39 @@
+# Pulse Labs
+
+## Portal Documentation
+
+- [Introduction](https://pulselabs.gitbook.io/pulse-labs/getting-started/readme.md)
+- [Authentication and Access](https://pulselabs.gitbook.io/pulse-labs/getting-started/authentication-and-access-management.md)
+- [Workspaces](https://pulselabs.gitbook.io/pulse-labs/getting-started/workspace-management.md)
+- [Projects](https://pulselabs.gitbook.io/pulse-labs/getting-started/project-setup-and-workflow.md)
+- [Project Marketing and Visibility Controls](https://pulselabs.gitbook.io/pulse-labs/getting-started/project-marketing-and-visibility-controls.md)
+- [Surveys](https://pulselabs.gitbook.io/pulse-labs/data-capture-tools/survey-creation-and-management.md)
+- [Evaluations](https://pulselabs.gitbook.io/pulse-labs/data-capture-tools/evaluations-task-based-research.md)
+- [Recruiting Participants](https://pulselabs.gitbook.io/pulse-labs/participants/recruitment.md)
+- [Participant Funnel and Management](https://pulselabs.gitbook.io/pulse-labs/participants/participant-recruitment-and-management.md)
+- [Highlights](https://pulselabs.gitbook.io/pulse-labs/analysis/highlights.md)
+- [Account Settings](https://pulselabs.gitbook.io/pulse-labs/settings/account-settings.md)
+- [Privacy and Compliance](https://pulselabs.gitbook.io/pulse-labs/settings/privacy-policy-compliance.md)
+
+## Privacy Center
+
+- [Privacy Center](https://pulselabs.gitbook.io/pulse-labs/privacy-center/readme.md): Pulse Labs' central hub for privacy, security, and data protection documentation.
+- [Technical and Organizational Measures](https://pulselabs.gitbook.io/pulse-labs/privacy-center/readme/technical-and-organizational-measures.md): Security measures implemented by Pulse Labs to protect personal data.
+- [Subprocessors](https://pulselabs.gitbook.io/pulse-labs/privacy-center/readme/subprocessors.md): Third-party subprocessors engaged by Pulse Labs to process personal data.
+- [Subprocessor updates](https://pulselabs.gitbook.io/pulse-labs/privacy-center/readme/subprocessors/subprocessor-updates.md): Changes to Pulse Labs' subprocessor list. Subscribe to be notified of additions and removals.
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://pulselabs.gitbook.io/pulse-labs/getting-started/readme.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

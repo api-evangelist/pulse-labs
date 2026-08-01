@@ -1,0 +1,26 @@
+generated: '2026-07-20'
+method: searched
+source: https://pulselabs.ai/enterprise
+notes: >-
+  Pulse Labs is a UX user-research SaaS platform with no public REST API or
+  OpenAPI, so cross-cutting API standards (OAuth2/OIDC/RFC9457/pagination) are
+  not derivable. The standards asserted below are the security/privacy
+  compliance posture the company publishes on its enterprise and privacy-center
+  pages.
+standards:
+  - id: iso-27001
+    conforms: true
+    evidence: '"ISO 27001 Certified" published on https://pulselabs.ai/enterprise'
+  - id: gdpr
+    conforms: true
+    evidence: '"GDPR Compliant" published on https://pulselabs.ai/enterprise; Privacy Center documents technical and organizational measures'
+  - id: soc2
+    conforms: false
+    evidence: no published SOC 2 attestation found
+  - id: hipaa
+    conforms: false
+    evidence: no published HIPAA statement found
+compliance_docs:
+  - https://pulselabs.ai/enterprise
+  - https://pulselabs.gitbook.io/pulse-labs/privacy-center/readme.md
+  - https://pulselabs.gitbook.io/pulse-labs/privacy-center/readme/technical-and-organizational-measures.md
